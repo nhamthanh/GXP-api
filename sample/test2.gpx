@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OruxMaps v.7.1.6 Donate">
+	<metadata>
+		<name>test file 2</name>
+		<desc>test file 2 create for test list</desc>
+		<author>
+			<name>Peter</name>
+		</author>
+		<link href="http://www.oruxmaps.com">
+			<text>OruxMaps</text>
+		</link>
+		<time>2017-09-22T09:41:33Z</time>
+	</metadata>
+	<wpt lat="42.2184442" lon="-1.4421597">
+		<name>Cruce</name>
+		<sym>/static/wpt/Waypoint</sym>
+	</wpt>
+	<wpt lat="42.220266" lon="-1.4416908">
+		<name>Entorno de Piskerra</name>
+		<sym>/static/wpt/Waypoint</sym>
+	</wpt>
+	<wpt lat="42.2197307" lon="-1.4407347">
+		<name>Escaleras</name>
+		<sym>/static/wpt/Waypoint</sym>
+	</wpt>
+	<trk name="track 1" type="truck">
+		<trkseg>
+			<trkpt lat="42.220683708460996" lon="-1.4582070708274841">
+				<ele>316.12912000000006</ele>
+				<time>2017-10-22T09:43:38Z</time>
+			</trkpt>
+			<trkpt lat="42.22059829568746" lon="-1.4582258462905884">
+				<ele>316.08144000000004</ele>
+				<time>2017-10-22T09:43:46Z</time>
+			</trkpt>
+			<trkpt lat="42.220520828188285" lon="-1.4582258462905884">
+				<ele>316.09920000000005</ele>
+				<time>2017-10-22T09:43:54Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
